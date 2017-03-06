@@ -67,5 +67,12 @@ public class PersonDatabase<T> {
 		}
 
 	}
+	
+	public void removePerson(Person p) {
+
+	// need to add code here
+
+	}
+
 
 }
